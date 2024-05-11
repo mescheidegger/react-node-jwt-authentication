@@ -1,0 +1,44 @@
+.navbar-custom {
+  padding: 0.5rem 1rem;
+  justify-content: space-between; /* Align items between the start and end */
+}
+
+.nav-link.nav-link-custom {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.nav-bar-custom {
+background-color: transparent;
+border: none;
+color: #fff;
+padding: 5px 10px;
+cursor: pointer;
+}
+
+.sign-out-button, .login-button {
+background-color: transparent;
+border: none;
+color: #fff;
+cursor: pointer;
+position: absolute;
+right: 15px;
+top: 50%;
+transform: translateY(-50%);
+padding: 5px 10px;
+font-size: 1rem; /* Adjust font size if needed */
+}
+
+.sign-out-button:hover, .login-button:hover {
+color: #ccc;
+}
+
+.navbar__brand {
+align-items: center;
+display: flex;
+margin-right: 1rem;
+min-width: 0;
+}
