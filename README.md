@@ -1,4 +1,4 @@
-This project contains a boiler plate implementation for stateless JWT Authentication. The client side is React, server side is Node, and database is Postgres. This projects build scripts are staged to be deployed to digital oceans app platform. All code was written by AI.
+This project contains a boiler plate implementation for stateless JWT Authentication. The client side is React, server side is Node, and database is Postgres. This projects build scripts are staged to be deployed to digital oceans app platform.
 
 I used Mailerlite/Mailersend for handling password resets and a subscription list. Google ReCaptcha on the front end for captcha's.
 
